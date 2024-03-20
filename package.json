@@ -1,0 +1,22 @@
+{
+  "name": "ethereal-echo-cache",
+  "version": "1.0.2",
+  "description": "A simple cache library for storing data in memory with expiration support.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/huenublack/ethereal-echo-cache"
+  },
+  "keywords": [
+    "cache",
+    "memory",
+    "expiration"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "lru-cache": "^5.1.1"
+  }
+}
